@@ -30,5 +30,14 @@ cout<<p1.first<<" "<<p1.second<<endl;
 pair<int,string>p3=make_pair(30,"eftekher");
 cout<<p3.first<<" "<<p3.second<<endl;
 
+//array of pairs
+//vector of pairs
+
+pair<pair<int,int>,string>car;
+car.second="Audi";
+car.first.first=10;
+car.first.second=20;
+ 
+ cout<<car.first.first<<" "<<car.first.second<<" "<<car.second<<endl;
 return 0;
 }
