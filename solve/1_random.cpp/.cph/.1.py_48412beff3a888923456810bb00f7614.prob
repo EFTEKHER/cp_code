@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"e:\\cp_code\\solve\\1_random.cpp\\1.py","tests":[{"id":1724169585054,"input":"3\n1\n2\n3","output":"1\n-1\n3 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cp_code\\solve\\1_random.cpp\\1.py","group":"local","local":true}
